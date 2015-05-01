@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>The engineeringblogs list</title>
+    </head>
+    <body>
+        <outline text="EngineeringBlogs" title="EngineeringBlogs">
+            <outline type="rss" text="Making Pinterest" title="Making Pinterest" xmlUrl="http://engineering.pinterest.com/rss" htmlUrl="http://engineering.pinterest.com/"/>
+            <outline type="rss" text="Airbnb Engineering" title="Airbnb Engineering" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com"/>
+            <outline type="rss" text="The Corner" title="The Corner" xmlUrl="http://feeds.feedburner.com/corner-squareup-com" htmlUrl="http://corner.squareup.com"/>
+            <outline type="rss" text="LinkedIn Engineering" title="LinkedIn Engineering" xmlUrl="http://engineering.linkedin.com/taxonomy/term/1/feed" htmlUrl="http://engineering.linkedin.com/blog"/>
+            <outline type="rss" text="Code as Craft" title="Code as Craft" xmlUrl="http://codeascraft.etsy.com/feed/" htmlUrl="https://codeascraft.com"/>
+            <outline type="rss" text="Developer blog" title="Developer blog" xmlUrl="http://theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
+            <outline type="rss" text="RisingStack Engineering" title="RisingStack Engineering" xmlUrl="http://blog.risingstack.com/rss/" htmlUrl="http://blog.risingstack.com/"/>
+            <outline type="rss" text="Engineering" title="Engineering" xmlUrl="http://engineering.twitter.com/rss.xml" htmlUrl="https://engineering.twitter.com"/>
+            <outline type="rss" text="Engineering Blog" title="Engineering Blog" xmlUrl="https://engineering.eventbrite.com/feed/" htmlUrl="https://engineering.eventbrite.com"/>
+            <outline type="rss" text="The Box Blog" title="The Box Blog" xmlUrl="https://www.box.com/blog/feed/" htmlUrl="https://www.box.com/"/>
+            <outline type="rss" text="Technology on Heels with Lyst Engineering" title="Technology on Heels with Lyst Engineering" xmlUrl="http://developers.lyst.com/feed.xml" htmlUrl="http://developers.lyst.com"/>
+            <outline type="rss" text="PayPal Engineering Blog" title="PayPal Engineering Blog" xmlUrl="https://www.paypal-engineering.com/feed/" htmlUrl="https://www.paypal-engineering.com"/>
+        </outline>
+    </body>
+</opml>
