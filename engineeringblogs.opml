@@ -10,14 +10,49 @@
             <outline type="rss" text="Airbnb Engineering" title="Airbnb Engineering" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com"/>
             <outline type="rss" text="The Corner" title="The Corner" xmlUrl="http://feeds.feedburner.com/corner-squareup-com" htmlUrl="http://corner.squareup.com"/>
             <outline type="rss" text="LinkedIn Engineering" title="LinkedIn Engineering" xmlUrl="http://engineering.linkedin.com/taxonomy/term/1/feed" htmlUrl="http://engineering.linkedin.com/blog"/>
-            <outline type="rss" text="Code as Craft" title="Code as Craft" xmlUrl="http://codeascraft.etsy.com/feed/" htmlUrl="https://codeascraft.com"/>
+            <outline type="rss" text="Etsy - Code as Craft" title="Etsy - Code as Craft" xmlUrl="http://codeascraft.etsy.com/feed/" htmlUrl="https://codeascraft.com"/>
             <outline type="rss" text="Developer blog" title="Developer blog" xmlUrl="http://theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
             <outline type="rss" text="RisingStack Engineering" title="RisingStack Engineering" xmlUrl="http://blog.risingstack.com/rss/" htmlUrl="http://blog.risingstack.com/"/>
             <outline type="rss" text="Engineering" title="Engineering" xmlUrl="http://engineering.twitter.com/rss.xml" htmlUrl="https://engineering.twitter.com"/>
             <outline type="rss" text="Engineering Blog" title="Engineering Blog" xmlUrl="https://engineering.eventbrite.com/feed/" htmlUrl="https://engineering.eventbrite.com"/>
-            <outline type="rss" text="The Box Blog" title="The Box Blog" xmlUrl="https://www.box.com/blog/feed/" htmlUrl="https://www.box.com/"/>
+            <outline type="rss" text="The Box Blog" title="The Box Blog" xmlUrl="https://www.box.com/blog/feed/" htmlUrl="https://www.box.com/blog/engineering/"/>
             <outline type="rss" text="Technology on Heels with Lyst Engineering" title="Technology on Heels with Lyst Engineering" xmlUrl="http://developers.lyst.com/feed.xml" htmlUrl="http://developers.lyst.com"/>
             <outline type="rss" text="PayPal Engineering Blog" title="PayPal Engineering Blog" xmlUrl="https://www.paypal-engineering.com/feed/" htmlUrl="https://www.paypal-engineering.com"/>
+            <outline type="rss" text="Srcclr" title="Srcclr" xmlUrl="https://blog.srcclr.com/atom.xml" htmlUrl="https://blog.srcclr.com/"/>
+            <outline type="rss" text="Engineering at Quora" title="Engineering at Quora" xmlUrl="http://engineering.quora.com/rss" htmlUrl="http://engineering.quora.com/"/>
+            <outline type="rss" text="Yammer" title="Yammer" xmlUrl="http://eng.yammer.com/feed/" htmlUrl="http://eng.yammer.com/blog/"/>
+            <outline type="rss" text="Yelp" title="Yelp" xmlUrl="" htmlUrl="http://engineeringblog.yelp.com/"/>
+            <outline type="rss" text="Facebook" title="Facebook" xmlUrl="" htmlUrl="https://www.facebook.com/Engineering"/>
+            <outline type="rss" text="Yahoo" title="Yahoo" xmlUrl="" htmlUrl="http://labs.yahoo.com/"/>
+            <outline type="rss" text="Foursquare" title="Foursquare" xmlUrl="http://engineering.foursquare.com/feed/" htmlUrl="http://engineering.foursquare.com/"/>
+            <outline type="rss" text="Webengage" title="Webengage" xmlUrl="http://engineering.webengage.com/feed/" htmlUrl="http://engineering.webengage.com/"/>
+            <outline type="rss" text="Netflix" title="Netflix" xmlUrl="http://techblog.netflix.com/rss.xml" htmlUrl="http://techblog.netflix.com/"/>
+            <outline type="rss" text="Netflix - UX" title="Netflix - UX" xmlUrl="" htmlUrl="https://plus.google.com/118323119241802119165/posts"/>
+            <outline type="rss" text="Simple" title="Simple" xmlUrl="https://www.simple.com/engineering-rss.xml" htmlUrl="https://www.simple.com/engineering"/>
+            <outline type="rss" text="Soundcloud" title="Soundcloud" xmlUrl="http://feeds.feedburner.com/soundcloudapiblog" htmlUrl="https://developers.soundcloud.com/blog/"/>
+            <outline type="rss" text="Flickr" title="Flickr" xmlUrl="http://code.flickr.net/feed/" htmlUrl="http://code.flickr.net/"/>
+            <outline type="rss" text="Dropbox" title="Dropbox" xmlUrl="https://blogs.dropbox.com/tech/feed/" htmlUrl="https://blogs.dropbox.com/tech/"/>
+            <outline type="rss" text="Instagram" title="Instagram" xmlUrl="http://instagram-engineering.tumblr.com/rss" htmlUrl="http://instagram-engineering.tumblr.com/"/>
+            <outline type="rss" text="Cloudera" title="Cloudera" xmlUrl="http://blog.cloudera.com/feed/" htmlUrl="http://blog.cloudera.com/blog/"/>
+            <outline type="rss" text="Bandcamp" title="Bandcamp" xmlUrl="https://bandcamptech.wordpress.com/feed/" htmlUrl="https://bandcamptech.wordpress.com"/>
+            <outline type="rss" text="Oyster" title="Oyster" xmlUrl="http://tech.oyster.com/feed/" htmlUrl="http://tech.oyster.com/"/>
+            <outline type="rss" text="Slideshare" title="Slideshare" xmlUrl="http://engineering.slideshare.net/feed/" htmlUrl="http://engineering.slideshare.net/"/>
+            <outline type="rss" text="Github" title="Github" xmlUrl="https://github.com/blog/subscribe" htmlUrl="https://github.com/blog/category/engineering"/>
+            <outline type="rss" text="Fiftythree" title="Fiftythree" xmlUrl="http://making.fiftythree.com/feed.xml" htmlUrl="http://making.fiftythree.com/"/>
+            <outline type="rss" text="livechatinc" title="livechatinc" xmlUrl="http://developers.livechatinc.com/feed/" htmlUrl="http://developers.livechatinc.com/blog/"/>
+            <outline type="rss" text="Trello - Fogcreek" title="Trello - Fogcreek" xmlUrl="http://feeds.feedburner.com/FogCreekBlog" htmlUrl="http://blog.fogcreek.com/"/>
+            <outline type="rss" text="Heroku" title="Heroku" xmlUrl="http://engineering.heroku.com/feed.xml" htmlUrl="http://engineering.heroku.com/"/>
+            <outline type="rss" text="Stripe" title="Stripe" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl="https://stripe.com/blog"/>
+            <outline type="rss" text="Reddit" title="Reddit" xmlUrl="http://www.redditblog.com/feeds/posts/default?alt=rss" htmlUrl="http://www.redditblog.com/"/>
+            <outline type="rss" text="Groupon" title="Groupon" xmlUrl="https://engineering.groupon.com/feed/" htmlUrl="https://engineering.groupon.com/"/>
+            <outline type="rss" text="Songkick" title="Songkick" xmlUrl="http://devblog.songkick.com/feed/" htmlUrl="http://devblog.songkick.com/"/>
+            <outline type="rss" text="Evernote" title="Evernote" xmlUrl="http://blog.evernote.com/feed/" htmlUrl="https://blog.evernote.com/tech/"/>
+            <outline type="rss" text="Akosha" title="Akosha" xmlUrl="http://engineering.akosha.com/feed/" htmlUrl="http://engineering.akosha.com/"/>
+            <outline type="rss" text="Gosquared" title="Gosquared" xmlUrl="https://engineering.gosquared.com/feed" htmlUrl="https://engineering.gosquared.com/"/>
+            <outline type="rss" text="Shopify" title="Shopify" xmlUrl="http://feeds.feedburner.com/shopify-technology" htmlUrl="http://www.shopify.com/technology"/>
+            <outline type="rss" text="Wix" title="Wix" xmlUrl="http://engineering.wix.com/feed/" htmlUrl="http://engineering.wix.com/"/>
+            <outline type="rss" text="Zendesk" title="Zendesk" xmlUrl="https://developer.zendesk.com/blog.xml" htmlUrl="https://developer.zendesk.com/blog"/>
+            <outline type="rss" text="Mailchimp" title="Mailchimp" xmlUrl="http://devs.mailchimp.com/blog/feed/" htmlUrl="http://devs.mailchimp.com/blog/"/>
         </outline>
     </body>
 </opml>
