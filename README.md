@@ -19,6 +19,7 @@
 |[Yammer](http://eng.yammer.com/blog/)|http://eng.yammer.com/feed/|[@YammerEng](https://twitter.com/YammerEng)|
 |[Yelp](http://engineeringblog.yelp.com/)|||
 |[Facebook](https://www.facebook.com/Engineering)||[@fb_engineering](https://twitter.com/fb_engineering)|
+|[Facebook Code](https://code.facebook.com/)||[@fbOpenSource](https://twitter.com/fbOpenSource)|
 |[Yahoo](http://labs.yahoo.com/)||[@YahooLabs](https://twitter.com/YahooLabs)|
 |[Foursquare](http://engineering.foursquare.com/)|http://engineering.foursquare.com/feed/||
 |[Webengage](http://engineering.webengage.com/)|http://engineering.webengage.com/feed/||
@@ -49,3 +50,5 @@
 |[Wix](http://engineering.wix.com/)|http://engineering.wix.com/feed/|[@WixEng](https://twitter.com/WixEng)|
 |[Zendesk](https://developer.zendesk.com/blog)|https://developer.zendesk.com/blog.xml|[@zendeskdevteam](https://twitter.com/zendeskdevteam)|
 |[Mailchimp](http://devs.mailchimp.com/blog/)|http://devs.mailchimp.com/blog/feed/||
+|[Coursera](https://tech.coursera.org/)|https://tech.coursera.org/atom.xml||
+|[Spotify](https://labs.spotify.com/)|||
