@@ -53,6 +53,6 @@
 |[Coursera](https://tech.coursera.org/)|https://tech.coursera.org/atom.xml|[@courseraeng](https://twitter.com/courseraeng)|
 |[Spotify](https://labs.spotify.com/)|https://engineering.atspotify.com/feed/|[@SpotifyEng](https://twitter.com/SpotifyEng)|
 |[Uber](https://eng.uber.com/)|https://eng.uber.com/feed/|[@ubereng](https://twitter.com/ubereng)|
-|[Flexport](https://flexport.engineering/)|https://flexport.engineering/feed|(@FlexportEng)[https://twitter.com/FlexportEng]|
+|[Flexport](https://flexport.engineering/)|https://flexport.engineering/feed|[@FlexportEng](https://twitter.com/FlexportEng)|
 |[Reaktor](https://www.reaktor.com/blog/)||
 |[Figma](https://www.figma.com/blog/section/engineering/)|https://www.figma.com/blog/feed/atom.xml||
