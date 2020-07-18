@@ -50,5 +50,9 @@
 |[Wix](http://engineering.wix.com/)|http://engineering.wix.com/feed/|[@WixEng](https://twitter.com/WixEng)|
 |[Zendesk](https://developer.zendesk.com/blog)|https://developer.zendesk.com/blog.xml|[@zendeskdevteam](https://twitter.com/zendeskdevteam)|
 |[Mailchimp](http://devs.mailchimp.com/blog/)|http://devs.mailchimp.com/blog/feed/||
-|[Coursera](https://tech.coursera.org/)|https://tech.coursera.org/atom.xml||
-|[Spotify](https://labs.spotify.com/)|||
+|[Coursera](https://tech.coursera.org/)|https://tech.coursera.org/atom.xml|[@courseraeng](https://twitter.com/courseraeng)|
+|[Spotify](https://labs.spotify.com/)|https://engineering.atspotify.com/feed/|[@SpotifyEng](https://twitter.com/SpotifyEng)|
+|[Uber](https://eng.uber.com/)|https://eng.uber.com/feed/|[@ubereng](https://twitter.com/ubereng)|
+|[Flexport](https://flexport.engineering/)|https://flexport.engineering/feed|(@FlexportEng)[https://twitter.com/FlexportEng]|
+|[Reaktor](https://www.reaktor.com/blog/)||
+|[Figma](https://www.figma.com/blog/section/engineering/)|https://www.figma.com/blog/feed/atom.xml||
