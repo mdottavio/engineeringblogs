@@ -23,6 +23,7 @@
             <outline type="rss" text="Yammer" title="Yammer" xmlUrl="http://eng.yammer.com/feed/" htmlUrl="http://eng.yammer.com/blog/"/>
             <outline type="rss" text="Yelp" title="Yelp" xmlUrl="" htmlUrl="http://engineeringblog.yelp.com/"/>
             <outline type="rss" text="Facebook" title="Facebook" xmlUrl="" htmlUrl="https://www.facebook.com/Engineering"/>
+            <outline type="rss" text="Facebook Code" title="Facebook Code" xmlUrl="" htmlUrl="https://code.facebook.com"/>
             <outline type="rss" text="Yahoo" title="Yahoo" xmlUrl="" htmlUrl="http://labs.yahoo.com/"/>
             <outline type="rss" text="Foursquare" title="Foursquare" xmlUrl="http://engineering.foursquare.com/feed/" htmlUrl="http://engineering.foursquare.com/"/>
             <outline type="rss" text="Webengage" title="Webengage" xmlUrl="http://engineering.webengage.com/feed/" htmlUrl="http://engineering.webengage.com/"/>
@@ -53,6 +54,8 @@
             <outline type="rss" text="Wix" title="Wix" xmlUrl="http://engineering.wix.com/feed/" htmlUrl="http://engineering.wix.com/"/>
             <outline type="rss" text="Zendesk" title="Zendesk" xmlUrl="https://developer.zendesk.com/blog.xml" htmlUrl="https://developer.zendesk.com/blog"/>
             <outline type="rss" text="Mailchimp" title="Mailchimp" xmlUrl="http://devs.mailchimp.com/blog/feed/" htmlUrl="http://devs.mailchimp.com/blog/"/>
+            <outline type="rss" text="Coursera" title="Coursera" xmlUrl="https://tech.coursera.org/atom.xml" htmlUrl="https://tech.coursera.org/"/>
+            <outline type="rss" text="Spotify" title="Spotify" htmlUrl="https://labs.spotify.com"/>
         </outline>
     </body>
 </opml>
