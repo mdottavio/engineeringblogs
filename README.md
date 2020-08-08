@@ -56,3 +56,4 @@
 |[Flexport](https://flexport.engineering/)|https://flexport.engineering/feed|[@FlexportEng](https://twitter.com/FlexportEng)|
 |[Reaktor](https://www.reaktor.com/blog/)||
 |[Figma](https://www.figma.com/blog/section/engineering/)|https://www.figma.com/blog/feed/atom.xml||
+|[Redfin](https://redfin.engineering/)|https://redfin.engineering/feed||
