@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Making Pinterest",
+        "status": null,
+        "link": "http://engineering.pinterest.com/",
+        "feed": "http://engineering.pinterest.com/rss",
+        "tw": {
+            "user": "@PinterestEng",
+            "link": "https://twitter.com/PinterestEng"
+        }
+    },
+    {
+        "name": "Airbnb Engineering",
+        "status": null,
+        "link": "http://nerds.airbnb.com",
+        "feed": "http://nerds.airbnb.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "The Corner",
+        "status": null,
+        "link": "http://corner.squareup.com",
+        "feed": "http://feeds.feedburner.com/corner-squareup-com",
+        "tw": {
+            "user": "@squareeng",
+            "link": "https://twitter.com/squareeng"
+        }
+    },
+    {
+        "name": "LinkedIn Engineering",
+        "status": null,
+        "link": "http://engineering.linkedin.com/blog",
+        "feed": "http://engineering.linkedin.com/taxonomy/term/1/feed",
+        "tw": {
+            "user": "@LinkedInEng",
+            "link": "https://twitter.com/LinkedInEng"
+        }
+    },
+    {
+        "name": "Etsy - Code as Craft",
+        "status": null,
+        "link": "https://codeascraft.com",
+        "feed": "http://codeascraft.etsy.com/feed/",
+        "tw": {
+            "user": "@codeascraft",
+            "link": "https://twitter.com/codeascraft"
+        }
+    },
+    {
+        "name": "Developer blog",
+        "status": null,
+        "link": "http://www.theguardian.com/info/developer-blog",
+        "feed": "http://theguardian.com/info/developer-blog/rss",
+        "tw": {
+            "user": "@gdndevelopers",
+            "link": "https://twitter.com/gdndevelopers"
+        }
+    },
+    {
+        "name": "RisingStack Engineering",
+        "status": null,
+        "link": "http://blog.risingstack.com/",
+        "feed": "http://blog.risingstack.com/rss/",
+        "tw": null
+    },
+    {
+        "name": "Engineering",
+        "status": null,
+        "link": "https://engineering.twitter.com",
+        "feed": "http://engineering.twitter.com/rss.xml",
+        "tw": {
+            "user": "List",
+            "link": "https://twitter.com/twitter/lists/twitter-engineering"
+        }
+    },
+    {
+        "name": "Engineering Blog",
+        "status": null,
+        "link": "https://engineering.eventbrite.com",
+        "feed": "https://engineering.eventbrite.com/feed/",
+        "tw": {
+            "user": "@evbeng",
+            "link": "https://twitter.com/evbeng"
+        }
+    },
+    {
+        "name": "The Box Blog",
+        "status": null,
+        "link": "https://www.box.com/blog/engineering/",
+        "feed": "https://www.box.com/blog/feed/",
+        "tw": {
+            "user": "@boxeng",
+            "link": "https://twitter.com/boxeng"
+        }
+    },
+    {
+        "name": "Technology on Heels with Lyst Engineering",
+        "status": null,
+        "link": "http://developers.lyst.com",
+        "feed": "http://developers.lyst.com/feed.xml",
+        "tw": {
+            "user": "@MakingLyst",
+            "link": "https://twitter.com/MakingLyst"
+        }
+    },
+    {
+        "name": "PayPal Engineering, Blog",
+        "status": null,
+        "link": "https://www.paypal-engineering.com",
+        "feed": "https://www.paypal-engineering.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Srcclr",
+        "status": null,
+        "link": "https://blog.srcclr.com/",
+        "feed": "https://blog.srcclr.com/atom.xml",
+        "tw": {
+            "user": "@srcclr",
+            "link": "https://twitter.com/srcclr"
+        }
+    },
+    {
+        "name": "Engineering at Quora",
+        "status": null,
+        "link": "http://engineering.quora.com/",
+        "feed": "http://engineering.quora.com/rss",
+        "tw": null
+    },
+    {
+        "name": "Yammer",
+        "status": null,
+        "link": "http://eng.yammer.com/blog/",
+        "feed": "http://eng.yammer.com/feed/",
+        "tw": {
+            "user": "@YammerEng",
+            "link": "https://twitter.com/YammerEng"
+        }
+    },
+    {
+        "name": "Yelp",
+        "status": null,
+        "link": "http://engineeringblog.yelp.com/",
+        "feed": null,
+        "tw": null
+    },
+    {
+        "name": "Facebook",
+        "status": null,
+        "link": "https://www.facebook.com/Engineering",
+        "tw": {
+            "user": "@fb_engineering",
+            "link": "https://twitter.com/fb_engineering"
+        }
+    },
+    {
+        "name": "Facebook Code",
+        "status": null,
+        "link": "https://code.facebook.com",
+        "tw": {
+            "user": "@fbOpenSource",
+            "link": "https://twitter.com/fbOpenSource"
+        }
+    },
+    {
+        "name": "Yahoo",
+        "status": null,
+        "link": "http://labs.yahoo.com",
+        "tw": {
+            "user": "@YahooLabs",
+            "link": "https://twitter.com/YahooLabs"
+        }
+    },
+    {
+        "name": "Foursquare",
+        "status": null,
+        "link": "http://engineering.foursquare.com/",
+        "feed": "http://engineering.foursquare.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Webengage",
+        "status": null,
+        "link": "http://engineering.webengage.com/",
+        "feed": "http://engineering.webengage.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Netflix",
+        "status": null,
+        "link": "http://techblog.netflix.com/",
+        "feed": "http://techblog.netflix.com/rss.xml",
+        "tw": null
+    },
+    {
+        "name": "Netflix - UX",
+        "status": null,
+        "link": "https://plus.google.com/118323119241802119165/posts",
+        "feed": null,
+        "tw": null
+    },
+    {
+        "name": "Simple",
+        "status": null,
+        "link": "https://www.simple.com/engineering",
+        "feed": "https://www.simple.com/engineering-rss.xml",
+        "tw": null
+    },
+    {
+        "name": "Soundcloud",
+        "status": null,
+        "link": "https://developers.soundcloud.com/blog/",
+        "feed": "http://feeds.feedburner.com/soundcloudapiblog",
+        "tw": {
+            "user": "@soundclouddev",
+            "link": "https://twitter.com/soundclouddev"
+        }
+    },
+    {
+        "name": "Flickr",
+        "status": null,
+        "link": "http://code.flickr.net/",
+        "feed": "http://code.flickr.net/feed/",
+        "tw": null
+    },
+    {
+        "name": "Dropbox",
+        "status": null,
+        "link": "https://blogs.dropbox.com/tech/",
+        "feed": "https://blogs.dropbox.com/tech/feed/",
+        "tw": null
+    },
+    {
+        "name": "Instagram",
+        "status": null,
+        "link": "http://instagram-engineering.tumblr.com/",
+        "feed": "http://instagram-engineering.tumblr.com/rss",
+        "tw": null
+    },
+    {
+        "name": "Cloudera",
+        "status": null,
+        "link": "http://blog.cloudera.com/blog/",
+        "feed": "http://blog.cloudera.com/feed/",
+        "tw": {
+            "user": "@ClouderaEng",
+            "link": "https://twitter.com/ClouderaEng"
+        }
+    },
+    {
+        "name": "Bandcamp",
+        "status": null,
+        "link": "https://bandcamptech.wordpress.com",
+        "feed": "https://bandcamptech.wordpress.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Oyster",
+        "status": null,
+        "link": "http://tech.oyster.com/",
+        "feed": "http://tech.oyster.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Slideshare",
+        "status": null,
+        "link": "http://engineering.slideshare.net/",
+        "feed": "http://engineering.slideshare.net/feed/",
+        "tw": null
+    },
+    {
+        "name": "Github",
+        "status": null,
+        "link": "https://github.com/blog/category/engineering",
+        "feed": "https://github.com/blog/subscribe",
+        "tw": {
+            "user": "@githubstatus",
+            "link": "https://twitter.com/githubstatus"
+        }
+    },
+    {
+        "name": "Fiftythree",
+        "status": null,
+        "link": "http://making.fiftythree.com/",
+        "feed": "http://making.fiftythree.com/feed.xml",
+        "tw": null
+    },
+    {
+        "name": "livechatinc",
+        "status": null,
+        "link": "http://developers.livechatinc.com/blog/",
+        "feed": "http://developers.livechatinc.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Trello - Fogcreek",
+        "status": null,
+        "link": "http://blog.fogcreek.com/",
+        "feed": "http://feeds.feedburner.com/FogCreekBlog",
+        "tw": null
+    },
+    {
+        "name": "Heroku",
+        "status": null,
+        "link": "http://engineering.heroku.com/",
+        "feed": "http://engineering.heroku.com/feed.xml",
+        "tw": null
+    },
+    {
+        "name": "Stripe",
+        "status": null,
+        "link": "https://stripe.com/blog",
+        "feed": "https://stripe.com/blog/feed.rss",
+        "tw": null
+    },
+    {
+        "name": "Reddit",
+        "status": null,
+        "link": "http://www.redditblog.com/",
+        "feed": "http://www.redditblog.com/feeds/posts/default?alt=rss",
+        "tw": null
+    },
+    {
+        "name": "Groupon",
+        "status": null,
+        "link": "https://engineering.groupon.com/",
+        "feed": "https://engineering.groupon.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Songkick",
+        "status": null,
+        "link": "http://devblog.songkick.com/",
+        "feed": "http://devblog.songkick.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Evernote",
+        "status": null,
+        "link": "https://blog.evernote.com/tech/",
+        "feed": "http://blog.evernote.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Akosha",
+        "status": null,
+        "link": "http://engineering.akosha.com/",
+        "feed": "http://engineering.akosha.com/feed/",
+        "tw": null
+    },
+    {
+        "name": "Gosquared",
+        "status": null,
+        "link": "https://engineering.gosquared.com/",
+        "feed": "https://engineering.gosquared.com/feed",
+        "tw": null
+    },
+    {
+        "name": "Shopify",
+        "status": null,
+        "link": "http://www.shopify.com/technology",
+        "feed": "http://feeds.feedburner.com/shopify-technology",
+        "tw": null
+    },
+    {
+        "name": "Wix",
+        "status": null,
+        "link": "http://engineering.wix.com/",
+        "feed": "http://engineering.wix.com/feed/",
+        "tw": {
+            "user": "@WixEng",
+            "link": "https://twitter.com/WixEng"
+        }
+    },
+    {
+        "name": "Zendesk",
+        "status": null,
+        "link": "https://developer.zendesk.com/blog",
+        "feed": "https://developer.zendesk.com/blog.xml",
+        "tw": {
+            "user": "@zendeskdevteam",
+            "link": "https://twitter.com/zendeskdevteam"
+        }
+    },
+    {
+        "name": "Mailchimp",
+        "status": null,
+        "link": "http://devs.mailchimp.com/blog/",
+        "feed": "http://devs.mailchimp.com/blog/feed/",
+        "tw": null
+    },
+    {
+        "name": "Coursera",
+        "status": null,
+        "link": "https://tech.coursera.org/",
+        "feed": "https://tech.coursera.org/atom.xml",
+        "tw": {
+            "user": "@courseraeng",
+            "link": "https://twitter.com/courseraeng"
+        }
+    },
+    {
+        "name": "Spotify",
+        "status": null,
+        "link": "https://labs.spotify.com/",
+        "feed": "https://engineering.atspotify.com/feed/",
+        "tw": {
+            "user": "@SpotifyEng",
+            "link": "https://twitter.com/SpotifyEng"
+        }
+    },
+    {
+        "name": "Uber",
+        "status": null,
+        "link": "https://eng.uber.com/",
+        "feed": "https://eng.uber.com/feed/",
+        "tw": {
+            "user": "@ubereng",
+            "link": "https://twitter.com/ubereng"
+        }
+    },
+    {
+        "name": "Flexport",
+        "status": null,
+        "link": "https://flexport.engineering/",
+        "feed": "https://flexport.engineering/feed",
+        "tw": {
+            "user": "@FlexportEng",
+            "link": "https://twitter.com/FlexportEng"
+        }
+    },
+    {
+        "name": "Reaktor",
+        "status": null,
+        "link": "https://www.reaktor.com/blog/)",
+        "tw": null
+    },
+    {
+        "name": "Figma",
+        "status": null,
+        "link": "https://www.figma.com/blog/section/engineering/",
+        "feed": "https://www.figma.com/blog/feed/atom.xml",
+        "tw": null
+    },
+    {
+        "name": "Redfin",
+        "status": null,
+        "link": "https://redfin.engineering/",
+        "feed": "https://redfin.engineering/feed",
+        "tw": null
+    }
+]
